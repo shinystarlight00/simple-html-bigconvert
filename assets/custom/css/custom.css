@@ -3987,6 +3987,13 @@ input[type="radio"]:checked + .custom-dark-radio::after {
   border-radius: 20px;
 }
 
+.primary-card {
+  width: 100%;
+  background-color: #f3f3f3;
+  padding: 20px;
+  border-radius: 20px;
+}
+
 input[type="text"] {
   width: 100%;
   padding: 10px;
