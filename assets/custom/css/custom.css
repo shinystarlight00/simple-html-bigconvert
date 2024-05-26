@@ -2781,6 +2781,37 @@ p {
 .font-300 {
   font-size: 300px;
 }
+
+@media (max-width: 767px) {
+  .font-40 {
+    font-size: 20px;
+  }
+  .font-42 {
+    font-size: 22px;
+  }
+  .font-60 {
+    font-size: 30px;
+  }
+  .font-80 {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 460px) {
+  .font-40 {
+    font-size: 20px;
+  }
+  .font-42 {
+    font-size: 22px;
+  }
+  .font-60 {
+    font-size: 30px;
+  }
+  .font-80 {
+    font-size: 35px;
+  }
+}
+
 .width-100 {
   width: 100% !important;
 }
